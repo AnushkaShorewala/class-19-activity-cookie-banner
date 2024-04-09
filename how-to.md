@@ -4,7 +4,7 @@
 
 1. Review the HTML and CSS for the cookie banner.
    
-   HTML:  note the ID's and classes used
+   HTML:  note the ID's and classes used<br>
    CSS:  note the .banner classes created
 
 2.  Add jquery .js file at the bottom of all the HTML pages - this is already in your scripts sub-directory:
@@ -35,6 +35,6 @@ Add/Remove CSS Class -
 
 6.  Make the cookie banner sticky at the top of the page:
 
-    `position: sticky;
-    top: 0;
-    z-index: 10;`
+    `position: sticky;`
+    `top: 0;`
+    `z-index: 10;`
