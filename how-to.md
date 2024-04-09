@@ -21,7 +21,7 @@
 
 Listen/Respond to Events on an Element - 
 
-    '$("TODO: CSS Selector").click(function() {
+    `$("TODO: CSS Selector").click(function() {
     
         /* TODO: JavaScript+jQuery code to respond to "click" event */
     
