@@ -21,19 +21,19 @@ Follow these steps to implement the cookie banner
 
 5. Code the interactivity for the cookie banner using these snippets:
 
-Listen/Respond to Events on an Element - 
+    Listen/Respond to Events on an Element - 
 
-    $("TODO: CSS Selector").click(function() {
-    
-        /* TODO: JavaScript+jQuery code to respond to "click" event */
-    
-    });
+        $("TODO: CSS Selector").click(function() {
+        
+            /* TODO: JavaScript+jQuery code to respond to "click" event */
+        
+        });
 
-Add/Remove CSS Class - 
+    Add/Remove CSS Class - 
 
-    $("TODO: Selector").addClass("TODO: class name");
+        $("TODO: Selector").addClass("TODO: class name");
 
-    $("TODO: Selector").removeClass("TODO: class name");
+        $("TODO: Selector").removeClass("TODO: class name");
 
 6.  Make the cookie banner sticky at the top of the page:
 
