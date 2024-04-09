@@ -23,7 +23,7 @@ Listen/Respond to Events on an Element -
 
     '$("TODO: CSS Selector").click(function() {
     
-    /* TODO: JavaScript+jQuery code to respond to "click" event */
+        /* TODO: JavaScript+jQuery code to respond to "click" event */
     
     });`
 
@@ -35,6 +35,6 @@ Add/Remove CSS Class -
 
 6.  Make the cookie banner sticky at the top of the page:
 
-`position: sticky;
-top: 0;
-z-index: 10;`
+    `position: sticky;
+    top: 0;
+    z-index: 10;`
