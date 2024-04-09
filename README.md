@@ -37,8 +37,8 @@ Follow these steps to implement the cookie banner
 
 6.  Make the cookie banner sticky at the top of the page:
 
-    `position: sticky;`
-    `top: 0;`
+    `position: sticky;`<br>
+    `top: 0;`<br>
     `z-index: 10;`
 
 
