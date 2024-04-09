@@ -1,0 +1,24 @@
+
+Add JS files to bottom of HTML pages - 
+
+<script src="scripts/jquery-3.7.1.js"></script>
+<script src="scripts/cookie-banner.js"></script>
+
+Listen/Respond to Events on an Element - 
+
+$("TODO: CSS Selector").click(function() {
+
+    /* TODO: JavaScript+jQuery code to respond to "click" event */
+
+});
+
+Add/Remove CSS Class - 
+
+$("TODO: Selector").addClass("TODO: class name");
+$("TODO: Selector").removeClass("TODO: class name");
+
+Make the cookie banner sticky at the top of the page - 
+
+    position: sticky;
+    top: 0;
+    z-index: 10;
